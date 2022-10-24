@@ -1,2 +1,2 @@
 # Sample_MyPhotos-jQuery-
-　jQueryを利用した写真掲載サイトのサンプルになります。
+　jQueryを使用した写真掲載サイトのサンプルになります。
